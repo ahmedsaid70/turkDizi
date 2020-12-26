@@ -1,0 +1,13 @@
+@import "app.css";
+.active{
+    background-color: var(--black) !important;
+}
+body{
+    font-family: dunbar-low, sans-serif !important;
+    font-style: normal !important;
+    font-weight: 100 !important;
+}
+.bg-black{
+    background-color: var(--black) !important;
+
+}
